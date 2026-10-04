@@ -33,7 +33,7 @@ export default function Footer() {
               QAMAR <span className="bg-gradient-to-r from-cyan-400 via-blue-500 to-indigo-500 bg-clip-text text-transparent">ABBAS</span>
             </span>
             <span className="flex items-center gap-1 font-mono text-[10px] font-bold text-cyan-600 dark:text-cyan-400">
-              <Terminal className="h-3 w-3" />QAMAR ABBAS
+              <Terminal className="h-3 w-3" />QamarXploit
             </span>
           </div>
         </Link>
@@ -42,10 +42,10 @@ export default function Footer() {
         <div className="flex flex-col items-center gap-1 text-center">
           <div className="inline-flex items-center gap-1.5 rounded-full border border-cyan-500/20 bg-cyan-500/10 px-3 py-1 text-xs font-semibold text-cyan-600 backdrop-blur-md dark:border-cyan-400/30 dark:bg-cyan-400/10 dark:text-cyan-300">
             <Sparkles className="h-3.5 w-3.5 text-cyan-400 animate-pulse" />
-            <span>Designed & Developed by <strong className="text-cyan-500 dark:text-cyan-300">Qamar Abbas</strong></span>
+            <span>Designed & Developed by <strong className="text-cyan-500 dark:text-cyan-300">Qamar Orakzai</strong></span>
           </div>
           <p className="font-mono text-[11px] text-slate-500 dark:text-slate-400">
-            &copy; {new Date().getFullYear()} All rights reserved. Powered by React & Tailwind.
+            &copy; {new Date().getFullYear()} All rights reserved. Powered by qamarxploit.
           </p>
         </div>
 
