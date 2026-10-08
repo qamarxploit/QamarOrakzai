@@ -4,6 +4,12 @@ import { ExternalLink, Sparkles, FolderGit2, ArrowUpRight } from "lucide-react";
 
 const projects = [
   {
+    name: "Spectrum Academy",
+    url: "https://spectrumacademy.vercel.app",
+    category: "Web Design",
+    description: "A clean and clear website with multiple pages which is made for academy education.",
+  },
+  {
     name: "Spire Schools",
     url: "https://spireschools.vercel.app",
     category: "Web Design",
